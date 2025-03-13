@@ -80,3 +80,4 @@ terraform.rc
 Footer
 
 dashboard_files/
+venv/
